@@ -14,7 +14,7 @@ function lastImageSelector() {
 
 function ninjaBabySelector() {
   let ninjaBaby = document.getElementById('baby-ninja');
-  let ninjaBabyImage = $('img#baby-ninja:image');
+  let ninjaBabyImage = $('img#baby-ninja');
   return ninjaBabyImage
 }
 
