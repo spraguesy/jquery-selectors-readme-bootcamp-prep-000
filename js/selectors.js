@@ -5,3 +5,13 @@ function paragraphSelector() {
   return allPs
   
 }
+
+function lastImageSelector() {
+  let lastImg = $('img:last');
+  
+  return lastImg
+}
+
+function ninjaBabySelector() {
+  
+}
