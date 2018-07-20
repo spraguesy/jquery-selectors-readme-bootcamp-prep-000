@@ -13,5 +13,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  
+  return document.getElementById('')
 }
