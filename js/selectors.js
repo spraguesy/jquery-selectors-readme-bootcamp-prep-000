@@ -23,6 +23,6 @@ function divSelector() {
 }
 
 function firstListItem () {
-  firstList = document.querySelector('ul#piclist:first-child');
+  let firstList = document.querySelector('ul#piclist:first-child');
   return firstList
 }
