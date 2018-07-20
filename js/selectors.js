@@ -24,6 +24,6 @@ function divSelector() {
 }
 
 function firstListItem () {
-  let firstList = document.querySelector('ul#pic-list li:first-child');
+  let firstList = document.querySelector('ul#pic-list:first-child');
   return firstList
 }
