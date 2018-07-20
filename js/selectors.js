@@ -13,5 +13,13 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return document.getElementById('')
+  return document.getElementById('baby-ninja');
+}
+
+function divSelector() {
+  return document.querSelectorAll('div.pics');
+}
+
+function firstListItem () {
+  
 }
