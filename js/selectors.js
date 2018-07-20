@@ -21,5 +21,5 @@ function divSelector() {
 }
 
 function firstListItem () {
-  
+  return document.querySelector('ul#piclist:first-child');
 }
