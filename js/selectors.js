@@ -13,7 +13,8 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return document.getElementById('baby-ninja');
+  let ninjaBaby = document.getElementById('baby-ninja');
+  return ninjaBaby
 }
 
 function divSelector() {
