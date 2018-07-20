@@ -18,9 +18,11 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return document.querSelectorAll('div.pics');
+  let divPics = document.querSelectorAll('div.pics');
+  return divPics
 }
 
 function firstListItem () {
-  return document.querySelector('ul#piclist:first-child');
+  firstList = document.querySelector('ul#piclist:first-child');
+  return firstList
 }
