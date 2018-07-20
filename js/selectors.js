@@ -18,7 +18,7 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  let divPics = document.querSelectorAll('div.pics');
+  let divPics = document.querySelectorAll('div.pics');
   return divPics
 }
 
